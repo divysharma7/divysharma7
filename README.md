@@ -1,6 +1,3 @@
-Here’s a new README.md template based on the skills and experience from your resume:
-
-```markdown
 <h1 align="center">Welcome! 🎉 I'm Divy Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divysharma7&label=Profile%20views&color=0e75b6&style=flat" alt="divysharma7" /> </p>
 
@@ -91,6 +88,3 @@ Here’s a new README.md template based on the skills and experience from your r
 <div align="center">
   <h3> 📄  Please check out my <a href="https://divysharma-com.vercel.app/"> Portfolio </a> ❤️ for more information about my experience and skills.</h3>
 </div>
-```
-
-Replace the placeholders with your actual information and links. This template highlights your design skills, tools, and interpersonal skills, reflecting your experience and background as detailed in your resume.
