@@ -1,5 +1,7 @@
-<h1 align="center">Welcome! 🎉</h1>
-<h2 align="center">Dive into the World of Divy Sharma</h2>
+<h1 align="center">Hi 👋, I'm Divy Sharma </h1>
+<h2 align="center">I believe in prioritizing people, positive solutions and
+empathy driven
+design</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divysharma7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
