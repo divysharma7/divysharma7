@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divy Sharma </h1>
-<h2 align="center">I believe in prioritizing people, positive solutions and
+<h2 align="center">I believe in people, positive solutions and
 empathy driven
 design</h2>
 
@@ -38,10 +38,11 @@ design</h2>
 <div align="left">  
 🔭 I’m currently working on Aqua-alert
 
-
 🌱 I’m currently learning Vue.js
 
 👯 I’m looking to collaborate on UX Research Projects
+
+🌱 I’m currently learning Vue.js
 
 👨‍💻 All of my projects are available at https://divysharma-com.vercel.app/projects
 
