@@ -35,19 +35,15 @@ design</h2>
   <a href="mailto:divysharma029@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<div align="left">  
-👯 I’m looking to collaborate on UX Research Projects
-<br>
-🌱 I’m currently learning Vue.js
+<ul>
+  <li>👯 I’m looking to collaborate on UX Research Projects</li>
+  <li>🌱 I’m currently learning Vue.js</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://divysharma-com.vercel.app/projects">https://divysharma-com.vercel.app/projects</a></li>
+  <li>📝 I write articles on <a href="https://medium.com/@divysharma029">https://medium.com/@divysharma029</a></li>
+  <li>📫 How to reach me: divysharma029@gmail.com</li>
+  <li>📄 Know about my experiences: <a href="https://divysharma-com.vercel.app/explore">https://divysharma-com.vercel.app/explore</a></li>
+</ul>
 
-👨‍💻 All of my projects are available at https://divysharma-com.vercel.app/projects
-
-📝 I write articles on https://medium.com/@priyanshusaininew
-
-📫 How to reach me divysharma029@gmail.com
-
-📄 Know about my experiences https://divysharma-com.vercel.app/explore
-</div>
 <br>
 <br>
 
