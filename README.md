@@ -34,7 +34,23 @@ design</h2>
   <a href="https://github.com/divysharma7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:divysharma029@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
+<div align="left">
+🔭 I’m currently working on Aqua-alert
 
+🌱 I’m currently learning Vue.js
+
+👯 I’m looking to collaborate on UX Research Projects
+
+👨‍💻 All of my projects are available at https://divysharma-com.vercel.app/projects
+
+📝 I write articles on https://medium.com/@priyanshusaininew
+
+💬 Reach me for Websites and App development
+
+📫 How to reach me divysharma029@gmail.com
+
+📄 Know about my experiences https://divysharma-com.vercel.app/explore
+</div>
 <br>
 <br>
 
