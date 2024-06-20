@@ -45,8 +45,6 @@ design</h2>
 
 📝 I write articles on https://medium.com/@priyanshusaininew
 
-💬 Reach me for Websites and App development
-
 📫 How to reach me divysharma029@gmail.com
 
 📄 Know about my experiences https://divysharma-com.vercel.app/explore
