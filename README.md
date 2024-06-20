@@ -34,7 +34,9 @@ design</h2>
   <a href="https://github.com/divysharma7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:divysharma029@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
-<div align="left">
+<div align="left"> 
+<br>
+<br> 
 🔭 I’m currently working on Aqua-alert
 
 🌱 I’m currently learning Vue.js
