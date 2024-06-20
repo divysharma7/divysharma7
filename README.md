@@ -46,7 +46,7 @@ design</h2>
 </ul>
 
 <br>
-<div align="center">
+<div align="left">
   <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="700px" alt="Creative GIF" />
 </div>
 <br>
