@@ -34,9 +34,7 @@ design</h2>
   <a href="https://github.com/divysharma7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:divysharma029@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="700px" alt="Creative GIF" />
-</div>
+
 
 <ul>
   <li>👯 I’m looking to collaborate on UX Research Projects</li>
@@ -48,6 +46,9 @@ design</h2>
 </ul>
 
 <br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="700px" alt="Creative GIF" />
+</div>
 <br>
 
 ### Design Tools
