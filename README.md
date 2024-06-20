@@ -36,9 +36,8 @@ design</h2>
 </div>
 
 <div align="left">  
-<br>
 👯 I’m looking to collaborate on UX Research Projects
-
+<br>
 🌱 I’m currently learning Vue.js
 
 👨‍💻 All of my projects are available at https://divysharma-com.vercel.app/projects
