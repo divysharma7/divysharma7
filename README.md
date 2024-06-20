@@ -25,11 +25,11 @@ design</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=divysharma7&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Divy+%F0%9F%91%8B;UI/UX+Designer;Research+Intern;Problem+Solver" alt="Typing SVG" />
 </div> 
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/divy-sharma-243748216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/divysharma7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:divysharma029@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
