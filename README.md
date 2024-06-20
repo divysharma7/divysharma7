@@ -38,8 +38,6 @@ design</h2>
 <div align="left">  
 🔭 I’m currently working on Aqua-alert
 
-🌱 I’m currently learning Vue.js
-
 👯 I’m looking to collaborate on UX Research Projects
 
 🌱 I’m currently learning Vue.js
